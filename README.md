@@ -10,5 +10,5 @@ Exploring all the possible paths:
 finding the correct path by choosing Dijkstra's Algorithm 
 ![image](https://github.com/user-attachments/assets/fa20c965-325e-4840-bb97-231256ab61b4)
 
-finding the correct path by choosing Dijkstra's Algorithm 
+finding the correct path by choosing A* Algorithm 
 ![image](https://github.com/user-attachments/assets/4d248def-ef39-4df1-9d16-78cc1d0b9ef7)
